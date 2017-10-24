@@ -16,6 +16,7 @@ Template Name: Home
   </div>
   <div class="col-md-6">
     <img src="<?php the_field('beergif') ?>">
+    <h1>HEJ</h1>
   </div>
 </div>
 
