@@ -12,11 +12,12 @@ Template Name: Home
 </div>
 <div class="row background">
   <div class="col-md-6">
+    <h1>Bootlesgif</h1>
     <img src="<?php the_field('beergif') ?>">
   </div>
   <div class="col-md-6">
-    <img src="<?php the_field('beergif') ?>">
-    <h1>HEJ</h1>
+    <h1>Beergif</h1>
+    <img src="<?php the_field('bootlesgif') ?>">
   </div>
 </div>
 
